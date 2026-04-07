@@ -1,5 +1,6 @@
 main: su.nightexpress.coinsengine.CoinsEnginePlugin
 version: '${project.version}'
+folia-supported: true
 name: CoinsEngine
 author: NightExpress
 description: A lightweight and modern multi-currency and an economy plugin.
@@ -10,4 +11,3 @@ softdepend:
   - Vault
   - PlaceholderAPI
   - PlayerPoints
-folia-supported: true
